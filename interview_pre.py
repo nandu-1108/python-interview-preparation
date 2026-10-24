@@ -11,7 +11,7 @@ import zipfile
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "Root@123",
+    "password": "MYSQL password",
     "database": "my_memory"
 }
 def get_connection():
